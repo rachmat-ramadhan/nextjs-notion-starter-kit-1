@@ -43,8 +43,8 @@ export default siteConfig({
   // example:
   //
   // pageUrlOverrides: {
-  //   '/foo': '067dd719a912471ea9a3ac10710e7fdf',
-  //   '/bar': '0be6efce9daf42688f65c76b89f8eb27'
+  //   '/foo': 'fde4c997c0b64e7a891dddb95baa293d',
+  //   '/bar': '7b102cd3439e45b18ead683909ca908a'
   // }
   pageUrlOverrides: null,
 
@@ -55,11 +55,11 @@ export default siteConfig({
   // navigationLinks: [
   //   {
   //     title: 'About',
-  //     pageId: 'f1199d37579b41cbabfc0b5174f4256a'
+  //     pageId: 'f2f05279f8494544a21de5cecc272b22'
   //   },
   //   {
   //     title: 'Contact',
-  //     pageId: '6a29ebcb935a4f0689fe661ab5f3b8d1'
+  //     pageId: '3d9533aa133b4a3ea9ae7d94b924e75e'
   //   }
   // ]
 })
